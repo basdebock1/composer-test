@@ -1,0 +1,17 @@
+h1{
+    color: green;
+    text-decoration: line-through;
+}
+
+p{
+    font-family: 'Trebuchet MS';
+    color: red;
+}
+
+p.crafty{
+    color: blue;
+    font-style: italic;
+}
+img{
+    width: 100%;
+}
